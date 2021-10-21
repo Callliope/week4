@@ -1,0 +1,86 @@
+
+        #logo{position: fixed;
+            height: 34px;
+            width: 151px;
+            right: 1350px;
+            top: 34px;
+        }
+        .menu{
+            position: fixed;
+            width: 658px;
+            height: 22px;
+            top: 41px;
+            right: 454px;
+         
+    
+            font-family: 'Open Sans', sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 22px;
+            color: #646464;
+            filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+        }
+        #signup {
+            position: absolute;
+            width: 97px;
+            height: 32px;
+            top: 41px;
+            right: 301px;
+            margin-left:56px;
+            
+        }
+        h2{
+            position: fixed;
+            width: 191px;
+            height: 27px;
+            left: 271px;
+            top: 299px;
+            
+            font-family: "Open Sans",sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 20px;
+            line-height: 27px;
+        
+            color: #646464;
+        }
+        .txt{
+            position: fixed;
+            width: 552px;
+            height: 156px;
+            top: 338px;
+            left: 268px;
+            
+            font-family: 'Poppins', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 72px;
+            line-height: 78px;
+            color: #212121;
+        }
+        
+        .txt2{
+            position: fixed;
+            width: 603px;
+            height: 90px;
+            top: 521px;
+            left:258px;
+            font-family: 'Open Sans';
+            font-style: normal;
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 30px;
+            color: #646464;
+
+        }
+        #contactbutton{
+            position: fixed;
+            top: 635px;
+            left: 271px;
+        }
+        #interior{
+            position: fixed;
+            top: 175px;
+            left: 918px;
+        }
